@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Kalzad | Jason Miani
 image: /img/home-jumbotron.jpg
 heading: Kalzad | Jason Miani
 subheading: Support sustainable farming while enjoying a cup

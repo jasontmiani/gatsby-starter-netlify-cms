@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Kalzad | Jason Miani
-image: /img/home-jumbotron.jpg
+image: /img/rainbow-blue.jpg
 heading: Kalzad | Jason Miani
-subheading: Support sustainable farming while enjoying a cup
+subheading: 'Gamer, PC Enthusiast, Adventurer'
 mainpitch:
   title: Why Kaldi
   description: >
